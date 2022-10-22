@@ -5,6 +5,6 @@
 <h2>Mockups</h2>
 <ul>
 <li> [![Desktop](https://github.com/JhonatanQL/Landing-Page-Cryptocurrency/blob/master/desktop.png) </li>
-<li> [![Desktop-Active](https://i.postimg.cc/HnqKygK7/desktop-active.png)](https://postimg.cc/BPCNrdJq) </li>
-<li> [![mobile.png](https://i.postimg.cc/XYbNMSJJ/mobile.png)](https://postimg.cc/qz1HnF2V) </li>
+<li> [![Desktop-Active](https://github.com/JhonatanQL/Landing-Page-Cryptocurrency/blob/master/desktop%20%E2%80%93%20active.png) </li>
+<li> [![mobile.png](https://github.com/JhonatanQL/Landing-Page-Cryptocurrency/blob/master/mobile.png) </li>
 </ul>
