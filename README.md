@@ -3,3 +3,8 @@
 <h2>Web Site</h2>
 <a href="https://jhonatanql.github.io/Landing-Page-Cryptocurrency/">Cryptocurrency</a>
 <h2>Mockups</h2>
+<ul>
+<li> [![Desktop](https://github.com/JhonatanQL/Landing-Page-Cryptocurrency/master/desktop.png) </li>
+<li> [![Desktop-Active](https://i.postimg.cc/HnqKygK7/desktop-active.png)](https://postimg.cc/BPCNrdJq) </li>
+<li> [![mobile.png](https://i.postimg.cc/XYbNMSJJ/mobile.png)](https://postimg.cc/qz1HnF2V) </li>
+</ul>
